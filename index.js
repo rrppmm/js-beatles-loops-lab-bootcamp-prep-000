@@ -11,6 +11,7 @@ function johnLennonFacts(fact) {
   var i = 0;
   while (i < fact.length) {
     fact[i] = fact[i] + "!!!";
+    i++;
   }
   const facts = [
   "He was the last Beatle to learn to drive",
