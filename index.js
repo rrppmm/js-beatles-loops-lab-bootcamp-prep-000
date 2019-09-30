@@ -1,3 +1,4 @@
 function theBeatlesPlay(mus, inst) {
-  var 
+  var array = {};
+  for
 }
